@@ -4,5 +4,6 @@ _Use on your own risk_
 It is a cyber security tool that capture keys when pressed
 --------------------
 
-It is Basic keylogger. I use Python language to write it down.
-library used: pynput
+It is Basic keylogger. I use Python language to write it down.</br>
+## Requirement </br>
+Python Library: pynput
